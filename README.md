@@ -1,4 +1,4 @@
-# Codespace template for development of Contact Software Functions (Python)
+# Codespace template for development of CONTACT Software Functions with Python
 
 This codespace template is used to develop Functions for the CONTACT Software Functions Framework using Python.
 
