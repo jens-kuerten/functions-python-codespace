@@ -1,0 +1,5 @@
+runtime: python3.10
+version: v1
+functions:
+  - name: example
+    entrypoint: example_module.example_doc_release_check
